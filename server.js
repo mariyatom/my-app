@@ -1,3 +1,4 @@
+## create this file outside the my-app project folder
 const express = require('express')
 const app = express();
 const mongoose = require('mongoose');
